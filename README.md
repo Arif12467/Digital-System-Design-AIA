@@ -1,2 +1,2 @@
-#CPE487 Digital System Design
-##Arif Amzad
+# CPE487 Digital System Design
+## Arif Amzad
