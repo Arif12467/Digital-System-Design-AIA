@@ -1,11 +1,9 @@
 # RGB to YUV Converter
 
 ## VHDL Files
-Architecture: [rgb2yuv.vhd](./rgb2yuv.vhd)
-
-Test Bench: [tb_rgb2yuv](./tb_rgb2yuv.vhd)
-
-Value Change Dump: [rgb2yuv.vcd](./rgb2yuv.vcd)
+* Architecture: [rgb2yuv.vhd](./rgb2yuv.vhd)
+* Test Bench: [tb_rgb2yuv](./tb_rgb2yuv.vhd)
+* Value Change Dump: [rgb2yuv.vcd](./rgb2yuv.vcd)
 
 ## GTKWave of Test Bench
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/8f648c6fcabc9715b80397e0f1b0ac9631713a12/Assignment-2/rgb2yuv_gtkwave.png)
