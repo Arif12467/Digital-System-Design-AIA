@@ -1,5 +1,5 @@
-F. Cayci, “VHDL-digital-design/rgb2yuv.vhd ,” GitHub, 31-Oct-2019. [Online]. 
-    Available: https://github.com/fcayci/vhdl-digital-design/blob/master/rtl/rgb2yuv.vhd. [Accessed: 08-Feb-2022]. 
+-- F. Cayci, “VHDL-digital-design/rgb2yuv.vhd ,” GitHub, 31-Oct-2019. [Online]. 
+--    Available: https://github.com/fcayci/vhdl-digital-design/blob/master/rtl/rgb2yuv.vhd. [Accessed: 08-Feb-2022]. 
 
 -- rgb2yuv converter
 -- y =  0.299 R + 0.587 G + 0.114 B
