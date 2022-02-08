@@ -6,7 +6,7 @@
 * Value Change Dump: [rgb2yuv.vcd](./rgb2yuv.vcd)
 
 ## GTKWave of Test Bench
-![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/8f648c6fcabc9715b80397e0f1b0ac9631713a12/Assignment-2/rgb2yuv_gtkwave.png)
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/9870f82eba5dd37abdab60019408e596e0595fc4/Assignment-2/rgb2yuv_gtkwave.png)
 
 ## Commands Used to Run VHDL files
 ```sh
