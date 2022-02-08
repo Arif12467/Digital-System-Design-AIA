@@ -1,4 +1,9 @@
 # RGB to YUV Converter
+
+## VHDL Files
+Architecture: [rand_num_generator.vhd](./rand_num_generator.vhd)
+
+
 ## GTKWave of Test Bench
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/8f648c6fcabc9715b80397e0f1b0ac9631713a12/Assignment-2/rgb2yuv_gtkwave.png)
 
