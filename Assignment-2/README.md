@@ -1,7 +1,7 @@
 # RGB to YUV Converter
 
 ## VHDL Files
-Architecture: [rand_num_generator.vhd](./rand_num_generator.vhd)
+Architecture: [rgb2yuv.vhd](./rgb2yuv.vhd)
 
 
 ## GTKWave of Test Bench
