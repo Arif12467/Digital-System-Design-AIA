@@ -3,7 +3,7 @@
 ## VHDL Files
 * LED Decoder: [leddec.vhd](./leddec.vhd)
 * Hex Counter: [hexcount.vhd](./hexcount.vhd)
-* Counter: [counter.vcd](./counter.vcd)
+* Counter: [counter.vhd](./counter.vhd)
 ## Constraint Files
 * LED Decoder: [leddec.xdc](./leddec.xdc)
 * Hex Counter: [hexcount.xdc](./hexcount.xdc)
