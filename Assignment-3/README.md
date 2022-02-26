@@ -19,9 +19,17 @@ The implemented design of the circuit in Vivado is shown in the image below.
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/d989741409416ed9325f1a887e4615cc4b270705/Assignment-3/implemented_design.png)
 
 
-The GIF below shows how using switches 13, 14, and 15 on the Nexys-A7 board moves the placement of the LED selected.
+The GIF below shows how using switches 13, 14, and 15 on the Nexys A7 board moves the placement of the LED selected.
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/d989741409416ed9325f1a887e4615cc4b270705/Assignment-3/leddec_placement.GIF)
 
 
-The GIF below shows how using switches 0, 1, 2, and 3 on the Nexys-A7 board changes the hexadecimal number displayed.
+The GIF below shows how using switches 0, 1, 2, and 3 on the Nexys A7 board changes the hexadecimal number displayed.
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/d989741409416ed9325f1a887e4615cc4b270705/Assignment-3/leddec_count.GIF)
+
+## Project 2: Hex Counter
+The implemented design of the circuit in Vivado is shown in the image below.
+
+![This is an image]()
+
+The video below shows the Hex Counter running on the Nexys A7 board
+![This is an image]()
