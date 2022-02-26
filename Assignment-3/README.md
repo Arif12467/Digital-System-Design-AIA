@@ -15,6 +15,7 @@ The circuit shown above is a Seven-Segment LED Decoder created using combination
 
 ## Project 1: LED Decoder
 The implemented design of the circuit in Vivado is shown in the image below.
+
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/d989741409416ed9325f1a887e4615cc4b270705/Assignment-3/implemented_design.png)
 
 
