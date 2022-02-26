@@ -1,12 +1,12 @@
 # Lab 1: Seven-Segment Decoder
 
 ## VHDL Files
-* LED Decoder: [leddec.vhd](./rgb2yuv.vhd)
-* Hex Counter: [hexcount.vhd](./tb_rgb2yuv.vhd)
-* Counter: [counter.vcd](./rgb2yuv.vcd)
+* LED Decoder: [leddec.vhd](./leddec.vhd)
+* Hex Counter: [hexcount.vhd](./hexcount.vhd)
+* Counter: [counter.vcd](./counter.vcd)
 ## Constraint Files
-* LED Decoder: [leddec.xdc](./tb_rgb2yuv.vhd)
-* Hex Counter: [hexcount.xdc](./tb_rgb2yuv.vhd)
+* LED Decoder: [leddec.xdc](./leddec.xdc)
+* Hex Counter: [hexcount.xdc](./hexcount.xdc)
 
 
 ## Circuit Schematic
