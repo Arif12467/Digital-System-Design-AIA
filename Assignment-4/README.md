@@ -1,4 +1,4 @@
-# Lab 2: Four-Digit Hex Counter [WIP]
+# Lab 2: Four-Digit Hex Counter
 
 ## VHDL Files
 ### Four-Digit Hex Counter
