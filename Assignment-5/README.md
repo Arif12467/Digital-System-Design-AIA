@@ -2,22 +2,30 @@
 
 ## VHDL Files
 ### Bouncing Ball
-* LED Decoder: [leddec.vhd](./leddec.vhd)
+* Ball: [ball.vhd](./ball.vhd)
+* Clocking Wizard: [clk_wiz_0.vhd](./clk_wiz_0.vhd)
+* Clocking Wizard Architecture: [clk_wiz_0_clk_wiz.vhd](./clk_wiz_0_clk_wiz.vhd)
+* VGA Sync: [vga_sync.vhd](./vga_sync.vhd)
+* VGA Top: [vga_top.vhd](./vga_top.vhd)
 
 ### Bouncing Ball Modified
-* LED Decoder: [leddec_1.vhd](./leddec_1.vhd)
+* Ball: [ball_1.vhd](./ball_1.vhd)
+* Clocking Wizard: [clk_wiz_0.vhd](./clk_wiz_0.vhd)
+* Clocking Wizard Architecture: [clk_wiz_0_clk_wiz.vhd](./clk_wiz_0_clk_wiz.vhd)
+* VGA Sync: [vga_sync.vhd](./vga_sync.vhd)
+* VGA Top: [vga_top.vhd](./vga_top.vhd)
 
 ## Constraint Files
-* Four-Digit Hex Counter: [hexcount.xdc](./hexcount.xdc)
+* Bouncing Ball: [vga_top.xdc](./vga_top.xdc)
 
 
 ## Project 1: Bouncing Ball
 The implemented design of the circuit in Vivado is shown in the image below.
 
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/4dd15cb56989e8a29ecfca18ecb0a375a6d04c3e/Assignment-5/implemented_design.png)
 
 
-The video below shows the Four-Digit Hex Counter running on the Nexys A7 board from memory.
+The video below shows a red square bouncing ball moving vertically running on the Nexys A7 board displayed on the monitor.
 
 
 
@@ -25,7 +33,7 @@ The video below shows the Four-Digit Hex Counter running on the Nexys A7 board f
 ## Project 2: Eight-Digit Hex Counter
 The implemented design of the circuit in Vivado is shown in the image below.
 
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/4dd15cb56989e8a29ecfca18ecb0a375a6d04c3e/Assignment-5/implemented_design_1.png)
 
-The video below shows the Eight-Digit Hex Counter running on the Nexys A7 board from memory.
+The video below shows a light blue circular bouncing ball moving vertically and horizontally running on the Nexys A7 board displayed on the monitor.
 
