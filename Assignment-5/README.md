@@ -1,4 +1,4 @@
-# Lab 3: Bouncing Ball [WIP]
+# Lab 3: Bouncing Ball
 
 ## VHDL Files
 ### Bouncing Ball
