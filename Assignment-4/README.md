@@ -5,7 +5,7 @@
 * LED Decoder: [leddec.vhd](./leddec.vhd)
 * Hex Counter: [hexcount.vhd](./hexcount.vhd)
 * Counter: [counter.vhd](./counter.vhd)
-### Eight=Digit Hex Counter
+### Eight-Digit Hex Counter
 * LED Decoder: [leddec_1.vhd](./leddec_1.vhd)
 * Hex Counter: [hexcount_1.vhd](./hexcount_1.vhd)
 * Counter: [counter_1.vhd](./counter_1.vhd)
