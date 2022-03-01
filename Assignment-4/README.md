@@ -22,9 +22,14 @@ The implemented design of the circuit in Vivado is shown in the image below.
 
 The video below shows the Four-Digit Hex Counter running on the Nexys A7 board from memory.
 
+https://user-images.githubusercontent.com/78330724/156079736-2f06d93c-4984-4559-af15-d678e64104a6.mp4
+
+
 ## Project 2: Eight-Digit Hex Counter
 The implemented design of the circuit in Vivado is shown in the image below.
 
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/39185a4eeae6c6c0076c04d9b4cd3f5b4891fd6a/Assignment-4/implemented_design_1.png)
 
 The video below shows the Eight-Digit Hex Counter running on the Nexys A7 board from memory.
+
+https://user-images.githubusercontent.com/78330724/156079748-bf088d3f-462e-4d1e-bf9b-f3a32904f129.mp4
