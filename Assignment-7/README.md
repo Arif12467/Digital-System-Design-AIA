@@ -23,10 +23,13 @@ The implemented design of the circuit in Vivado is shown in the image below.
 
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/6fcc35d0ae56aa60341b35a3a28d5827b77c7ead/Assignment-7/implemented_design.png)
 
-Note: Sound of 
+Note: Due to the loud sound of the siren, the speaker's volume was limited.
 
 
-The video below shows the running on the Nexys A7 board. 
+The video below shows the DAC Siren playing on speaker from the Nexys A7 board. Due to the loud sound of the siren, the speaker's volume was limited.
+
+
+https://user-images.githubusercontent.com/78330724/156938294-b2708a8c-41df-4af1-bf87-bf6bfbe46ca2.mp4
 
 
 ## Project 2: Modified DAC Siren
@@ -35,3 +38,7 @@ The implemented design of the circuit in Vivado is shown in the image below.
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/6fcc35d0ae56aa60341b35a3a28d5827b77c7ead/Assignment-7/implemented_design_1.png)
 
 The video below shows the running on the Nexys A7 board. 
+
+
+https://user-images.githubusercontent.com/78330724/156938301-90388e9b-8ac4-4bb1-87dd-7365fa698902.mp4
+
