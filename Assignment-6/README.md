@@ -14,12 +14,14 @@
 * Modified Hex Calculator: [hexcalc_1.xdc](./hexcalc_1.xdc)
 ## Required Hardware
 * Pmod KYPD
-* 2X6 Pin Cable
+* 2x6 Pin Cable
 
 ## Project 1: Hex Calculator
 The implemented design of the circuit in Vivado is shown in the image below.
 
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/92850a7b7a2de9e637cb636f0f7146dfc14e7d1f/Assignment-6/implemented_design.png)
+
+Note: When connecting 2x6 Pin Cable, make sure that the paw is facing upward on both the JA port on the Nexys A7 board and the Pmod KYPD.
 
 The video below shows the Hex Calculator running on the Nexys A7 board. Addition is performed by entering an number using the Pmod KYPD and pressing the BTNU button on the board. By pressing the BTNL button, the board displays the result on the 7-Segment LED Display. To clear the calculator, press the BTNC button, which will return the display to zero.
 
