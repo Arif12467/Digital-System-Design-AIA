@@ -54,11 +54,11 @@ https://user-images.githubusercontent.com/78330724/156261064-c62e9a76-affc-4a78-
 
 ### Modified Video Game PONG
 * Analog to Digital Converter: [adc_if.vhd](./adc_if.vhd)
-* Bat and Ball: [bat_n_ball_1.vhd](./bat_n_ball.vhd)
+* Bat and Ball: [bat_n_ball_1.vhd](./bat_n_ball_1.vhd)
 * Clocking Wizard: [clk_wiz_0.vhd](./clk_wiz_0.vhd)
 * Clocking Wizard Architecture: [clk_wiz_0_clk_wiz.vhd](./clk_wiz_0_clk_wiz.vhd)
 * LED Decoder 16 bit: [leddec16.vhd](./leddec16.vhd)
-* PONG: [pong_1.vhd](./pong.vhd)
+* PONG: [pong_1.vhd](./pong_1.vhd)
 * VGA Sync: [vga_sync.vhd](./vga_sync.vhd)
 
 ## Constraint Files
