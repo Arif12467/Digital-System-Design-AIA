@@ -80,8 +80,8 @@ The implemented design of the circuit in Vivado is shown in the image below.
 
 The video below shows a light blue rectangle moving horizontally running on the Nexys A7 board displayed on the monitor. Pressing the BTNC button on the board will start the game with a red ball traveling up and bouncing at the edge of the screen. The objective of the game is to hit the ball against the rectangle by twisting the knob on the potentiometer. The game ends when the ball is dropped.
 
-
 https://user-images.githubusercontent.com/78330724/156935671-ef2b3fc2-828b-41ce-8281-b94dbcf4b628.mp4
+
 
 
 ## Project 2: Modified Video Game PONG
@@ -90,3 +90,6 @@ The implemented design of the circuit in Vivado is shown in the image below.
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/c7a903e82e497ea5a9273f97d2a5677c1545e14d/Assignment-5/implemented_design_3.png)
 
 The video below shows a light blue rectangle moving horizontally running on the Nexys A7 board displayed on the monitor. The width of the rectangle has been doubled and the count of successful hits is now displayed on the board 7-Segment LED. The ball speed can be modified by using switches SW0 - SW4.
+
+https://user-images.githubusercontent.com/78330724/156935785-44e29fb9-f66c-4a4a-9753-d0d750b28ea8.mp4
+
