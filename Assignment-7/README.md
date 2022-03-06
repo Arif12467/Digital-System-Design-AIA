@@ -7,7 +7,7 @@
 * Tone: [tone.vhd](./tone.vhd)
 * Wail: [wail.vhd](./wail.vhd)
 ### Modified DAC Siren
-* * Digital to Analog Converter: [dac_if.vhd](./dac_if.vhd)
+* Digital to Analog Converter: [dac_if.vhd](./dac_if.vhd)
 * Siren: [siren_1.vhd](./siren_1.vhd)
 * Tone: [tone_1.vhd](./tone_1.vhd)
 * Wail: [wail_1.vhd](./wail_1.vhd)
