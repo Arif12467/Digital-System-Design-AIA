@@ -20,3 +20,4 @@ This tool was used to create GIFs to show FPGA demonstrations.
 * **Operating System**: Windows 10 Pro, 64-bit
 * **Ports**: 1 HDMI v2.0 port, 1 Thunderbolt™ 3 with Power Delivery and DisplayPort, 2 USB 3.1 Gen 1 port, 1 Universal audio jack
 * **Battery**: 97Whr battery
+An interesting fact about this computer is the battery management system. The computer allows for power to be drawn directly from the DC input Jack when the battery is fully charged. The battery's health is maintained by the system and performance is increased. 
