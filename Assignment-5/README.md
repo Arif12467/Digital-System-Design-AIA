@@ -18,6 +18,8 @@
 ## Constraint Files
 * Bouncing Ball: [vga_top.xdc](./vga_top.xdc)
 
+## Required Hardware
+* Monitor with VGA connector
 
 ## Project 1: Bouncing Ball
 The implemented design of the circuit in Vivado is shown in the image below.
@@ -65,13 +67,21 @@ https://user-images.githubusercontent.com/78330724/156261064-c62e9a76-affc-4a78-
 * PONG: [pong.xdc](./pong.xdc)
 * Modified PONG: [pong_1.xdc](./pong_1.xdc)
 
+## Required Hardware
+* Pmod AD1
+* Potentiometer Controller
+* Monitor with VGA connector
 
 ## Project 1: Video Game PONG
 The implemented design of the circuit in Vivado is shown in the image below.
 
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/c7a903e82e497ea5a9273f97d2a5677c1545e14d/Assignment-5/implemented_design_2.png)
+
+The video below shows a light blue rectangle moving horizontally running on the Nexys A7 board displayed on the monitor. Pressing the BTNC button on the board will start the game with a red ball traveling up and bouncing at the edge of the screen. The game ends when the ball is dropped.
 
 ## Project 2: Modified Video Game PONG
 The implemented design of the circuit in Vivado is shown in the image below.
 
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/c7a903e82e497ea5a9273f97d2a5677c1545e14d/Assignment-5/implemented_design_3.png)
+
+The video below shows a light blue rectangle moving horizontally running on the Nexys A7 board displayed on the monitor. Pressing the BTNC button on the board will start the game with a red ball traveling up and bouncing at the edge of the screen. The game ends when the ball is dropped. The width of the rectangle has been doubled and the count of successful hits is displayed on the board. The ball speed is also modified by using switches SW0 - SW4.
