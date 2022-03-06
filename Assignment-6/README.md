@@ -21,9 +21,7 @@ The implemented design of the circuit in Vivado is shown in the image below.
 
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/92850a7b7a2de9e637cb636f0f7146dfc14e7d1f/Assignment-6/implemented_design.png)
 
-The video below shows the Hex Calculator running on the Nexys A7 board.
-
-
+The video below shows the Hex Calculator running on the Nexys A7 board. Addition is performed by entering an number using the Pmod KYPD and pressing the BTNU button on the board. By pressing the BTNL button, the board displays the result on the 7-Segment LED Display. To clear the calculator, press the BTNC button, which will return the display to zero.
 
 https://user-images.githubusercontent.com/78330724/156936821-67d4dfaa-e376-4c84-b175-77fbff806460.mp4
 
@@ -34,7 +32,7 @@ The implemented design of the circuit in Vivado is shown in the image below.
 
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/92850a7b7a2de9e637cb636f0f7146dfc14e7d1f/Assignment-6/implemented_design_1.png)
 
-
+The video below shows the Modified Hex Calculator running on the Nexys A7 board. The 7-Segment LED Display now supresses the leading zero. Subtraction is performed by entering an number using the Pmod KYPD and pressing the BTND button on the board.
 
 https://user-images.githubusercontent.com/78330724/156936826-70dccf44-c204-4282-a276-967e2e624953.mp4
 
