@@ -1,12 +1,15 @@
 # CPE 487 Digital System Design
 ## Arif Amzad
+
 ## Digital Systems
 [Exploring How Computers Work](https://youtu.be/QZwneRb-zqA)
+
 ## GIF Tool
 [ImgPlay](https://imgplay.net/index.html)
 
 This tool was used to create GIFs to show FPGA demonstrations.
-## Computer Specification
+
+## Computer Specifications
 [Dell XPS 15 7590](https://www.dell.com/en-is/shop/cty/pdp/spd/xps-15-7590-laptop)
 * **CPU**: 9th Generation Intel® Core™ i7-9750H (12 MB Cache, 6 Core, up to 4.50 GHz)
 * **RAM**: 16 GB, 2 x 8 GB, DDR4, 2666 MHz 
