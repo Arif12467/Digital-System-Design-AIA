@@ -43,6 +43,10 @@ The video below shows a light blue circular bouncing ball moving vertically and 
 https://user-images.githubusercontent.com/78330724/156261064-c62e9a76-affc-4a78-ad00-75b332bd334f.mp4
 
 
+
+
+
+
 # Lab 6: Video Game PONG
 
 ## VHDL Files
