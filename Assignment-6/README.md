@@ -27,7 +27,7 @@ The video below shows the Hex Calculator running on the Nexys A7 board. Addition
 
 697A + 258F = 8F09
 
-or equivalently
+or equivalently,
 
 27002 + 9615 = 36617
 
@@ -44,7 +44,7 @@ The video below shows the Modified Hex Calculator running on the Nexys A7 board.
 
 258F - 56B = 2024
 
-or equivalently
+or equivalently,
 
 9615 – 1387 = 8228
 
