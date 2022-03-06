@@ -8,7 +8,7 @@
 This tool was used to create GIFs to show FPGA demonstrations.
 ## Computer Specification
 Dell XPS 15 7590
-* CPU: 9th Generation Intel Core i7-9750H (12MB Cache, up to 4. 5 GHz, 6 Cores)
+* CPU: 9th Generation Intel® Core™ i7-9750H (12 MB Cache, 6 Core, up to 4.50 GHz)
 * RAM: 16GB DDR4-2666MHz, 2x8G 
 * GPU 0: Integrated Intel® UHD Graphics 630
 * GPU 1: NVIDIA® GeForce® GTX 1650, 4 GB, GDDR5
