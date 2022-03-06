@@ -16,7 +16,7 @@
 * Modified Siren: [siren_1.xdc](./siren_1.xdc)
 ## Required Hardware
 * Pmod I2S
-* Speaker
+* Speaker with 3.5 mm connector
 
 ## Project 1: DAC Siren
 The implemented design of the circuit in Vivado is shown in the image below.
