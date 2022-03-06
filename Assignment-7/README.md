@@ -18,19 +18,20 @@
 * Pmod I2S
 * Speaker
 
-## Project 1: Hex Calculator
+## Project 1: DAC Siren
 The implemented design of the circuit in Vivado is shown in the image below.
 
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/6fcc35d0ae56aa60341b35a3a28d5827b77c7ead/Assignment-7/implemented_design.png)
 
-Note: When connecting 2x6 Pin Cable, make sure that the paw is facing upward on both the JA port on the Nexys A7 board and the Pmod KYPD.
-
-The video below shows the  running on the Nexys A7 board. 
+Note: Sound of 
 
 
-## Project 2: Modified Hex Calculator
+The video below shows the running on the Nexys A7 board. 
+
+
+## Project 2: Modified DAC Siren
 The implemented design of the circuit in Vivado is shown in the image below.
 
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/6fcc35d0ae56aa60341b35a3a28d5827b77c7ead/Assignment-7/implemented_design_1.png)
 
-The video below shows the  on the Nexys A7 board. 
+The video below shows the running on the Nexys A7 board. 
