@@ -80,6 +80,10 @@ The implemented design of the circuit in Vivado is shown in the image below.
 
 The video below shows a light blue rectangle moving horizontally running on the Nexys A7 board displayed on the monitor. Pressing the BTNC button on the board will start the game with a red ball traveling up and bouncing at the edge of the screen. The objective of the game is to hit the ball against the rectangle by twisting the knob on the potentiometer. The game ends when the ball is dropped.
 
+
+https://user-images.githubusercontent.com/78330724/156935671-ef2b3fc2-828b-41ce-8281-b94dbcf4b628.mp4
+
+
 ## Project 2: Modified Video Game PONG
 The implemented design of the circuit in Vivado is shown in the image below.
 
