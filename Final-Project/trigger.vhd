@@ -3,7 +3,8 @@ USE IEEE.STD_LOGIC_1164.ALL;
 
 ENTITY trigger IS
 	PORT ( 
-			switch : OUT STD_LOGIC
+		clk_50MHz : IN STD_LOGIC;
+		switch : OUT STD_LOGIC
 		);
 END trigger;
 
@@ -38,6 +39,7 @@ BEGIN
 
 	trg: PROCESS IS 
 	BEGIN
+		WAIT UNTIL rising_edge(clk_50MHz);
 		IF data1 >= "1001" THEN
 			switch <= '1' ;
 		ELSE
