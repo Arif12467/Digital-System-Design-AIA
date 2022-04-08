@@ -1,4 +1,4 @@
-# Final Project: Volume Safe Listening Device [WIP]
+# Final Project: Noise Detector [WIP]
 
 Note: Files trigger.vhd and siren.vhd are stable and complied in ghdl
 
