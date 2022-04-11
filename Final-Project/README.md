@@ -36,6 +36,34 @@ The trigger threshold is suppose to turn on the siren when the data is above at 
 
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/68d25267e4d8a728e3968ed98a3a46b49a44b56b/Final-Project/Photos/R-2R%20Ladder%20DAC.png)
 
+## Vivado Implementation Instructions
+
+### 1. Create a new RTL project _siren_ in Vivado Quick Start
+
+* Create four new source files of file type VHDL called **_dac_if_**, **_tone_**, **_wail_**, **_trigger_**, **_PdmDes_** and **_siren_**
+
+* Create a new constraint file of file type XDC called **_siren_**
+
+* Choose Nexys A7-100T board for the project
+
+* Click 'Finish'
+
+* Click design sources and copy the VHDL code from dac_if.vhd, tone.vhd, wail.vhd, trigger.vhd, PdmDes.vhd, and siren.vhd
+
+* Click constraints and copy the code from siren.xdc
+
+### 2. Run synthesis
+
+### 3. Run implementation and open implemented design
+
+### 4. Generate bitstream, open hardware manager, and program device
+
+* Click 'Generate Bitstream'
+
+* Click 'Open Hardware Manager' and click 'Open Target' then 'Auto Connect'
+
+* Click 'Program Device' then xc7a100t_0 to download siren.bit to the Nexys A7-100T board
+
 ## Schematic in Vivado
 The image below shows a circuit schematic for how this system.
 
