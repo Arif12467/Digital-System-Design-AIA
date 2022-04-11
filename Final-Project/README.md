@@ -29,13 +29,13 @@ The image below shows a block diagram of how the components are interconnected i
 The trigger threshold is suppose to turn on the siren when the data is above at 16-bit number. For instance, Test 3 was set to 48,000, which corresponds to 1011101110000000. The 16-bit number is representative of voltage levels from Digital to Analog. This can be shown by this simple R-2R Ladder DAC, where higher order bits correspond to high voltages.
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/68d25267e4d8a728e3968ed98a3a46b49a44b56b/Final-Project/Photos/R-2R%20Ladder%20DAC.png)
 
-## Schematic in Vivado [WIP]
+## Schematic in Vivado
 The image below shows a circuit schematic for how this system.
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/ca126b7eedb8c3bcdece4b6b9d9f679dae896851/Final-Project/Photos/Schematic.png)
 
-## Implemented Design in Vivado [WIP]
+## Implemented Design in Vivado
 The image below shows the implemented design of the circuit in Vivado.
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/ca126b7eedb8c3bcdece4b6b9d9f679dae896851/Final-Project/Photos/Implemented%20Design.png)
 
 ## Demonstration [WIP]
 The video below shows the implemented system on the Nexys A7-100T.
