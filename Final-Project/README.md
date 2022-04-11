@@ -25,6 +25,10 @@ These Youtube videos from GreatScott! were the inspiration behind this project. 
 The image below shows a block diagram of how the components are interconnected in VHDL
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/6f0d885db4483583b36218580d8c2fabab3ee80c/Final-Project/Photos/Block%20Diagram.png)
 
+## Setting the Trigger Threshold
+The trigger threshold is suppose to turn on the siren when the data is above at 16-bit number. For instance, Test 3 was set to 48,000, which corresponds to 1011101110000000. The 16-bit number is representative of voltage levels from Digital to Analog. This can be shown by this simple R-2R Ladder DAC, where higher order bits correspond to high voltages.
+![This is an image]()
+
 ## Schematic in Vivado [WIP]
 The image below shows a circuit schematic for how this system.
 ![This is an image]()
