@@ -33,4 +33,5 @@ The image below shows a circuit schematic for how this system.
 The image below shows the implemented design of the circuit in Vivado.
 ![This is an image]()
 
-## Demonstration
+## Demonstration [WIP]
+The video below shows the implemented system on the Nexys A7-100T
