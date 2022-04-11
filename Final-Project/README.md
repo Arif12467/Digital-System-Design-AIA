@@ -16,9 +16,13 @@
 * Nexys A7-100T
 
 ## Block Diagram
+The image below shows a block diagram of how the components are interconnected in VHDL
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/6f0d885db4483583b36218580d8c2fabab3ee80c/Final-Project/Photos/Block%20Diagram.png)
 
+## Schematic in Vivado [WIP]
+The image below shows a circuit schematic for how this system.
+![This is an image]()
 
-## Schematic in Vivado
-
-
-## Implemented Design in Vivado
+## Implemented Design in Vivado [WIP]
+The image below shows the implemented design of the circuit in Vivado.
+![This is an image]()
