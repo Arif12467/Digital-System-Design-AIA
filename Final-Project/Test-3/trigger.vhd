@@ -64,7 +64,7 @@ BEGIN
 	trg: PROCESS IS 
 	BEGIN
 		WAIT UNTIL rising_edge(clk_in_t);
-		IF data_des >= "1100100000000000" THEN
+		IF data_des >= "1011101110000000" THEN
 			switch <= '1' ;
 		ELSE
 			switch <= '0';
