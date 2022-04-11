@@ -25,7 +25,7 @@ The design started by envisioning how this Noise Detector would function. I deci
 
 ## Compling in GHDL
 To verify that my code worked and was implemented correctly, I used GHDL to analyze it. This is shown in the image below where the function ```ghdl -a [filename].vhd ``` is used.
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/a30a2e69902b1ed7af9a2e2a8b13723bdba43b5f/Final-Project/Photos/GHDL%20Compile.png)
 
 ## Block Diagram
 The image below shows a block diagram of how the components are interconnected in VHDL
