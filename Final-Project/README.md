@@ -5,7 +5,7 @@
 * Siren: [siren.vhd](./Test-3/siren.vhd)
 * Tone: [tone.vhd](./Test-3/tone.vhd)
 * Trigger: [trigger.vhd](./Test-3/trigger.vhd)
-* Wail: [wail.vhd](./Test-3/wail.xdc)
+* Wail: [wail.vhd](./Test-3/wail.vhd)
 
 ## Constraint Files
 * Siren: [siren.xdc](./Test-3/siren.xdc)
