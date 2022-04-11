@@ -21,4 +21,4 @@
 ## Schematic in Vivado
 
 
-## Implementation in Vivado
+## Implemented Design in Vivado
