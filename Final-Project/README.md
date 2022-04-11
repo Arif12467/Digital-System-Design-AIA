@@ -24,7 +24,7 @@ These Youtube videos from GreatScott! were the inspiration behind this project. 
 The design started by envisioning how this Noise Detector would function. I decided to use the DAC Siren lab as the alarm since the tone would be distiniguishable. Then, I realized I need a way to turn the siren off and on based on a 16-bit value. After learning that the bits from the digital microphone are not bundled in 16-bits, I learned I needed a PDM deserializer.
 
 ## Compling in GHDL
-To verify that my code worked and was implemented correctly, I used GHDL to analyze it. This is shown in the image below where the function ```ghdl -a [filename].vhd ``` is used.
+To verify that my code worked and was implemented correctly, I used GHDL to analyze it. This is shown in the image below where the function ```ghdl -a [filename].vhd```  is used.
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/a30a2e69902b1ed7af9a2e2a8b13723bdba43b5f/Final-Project/Photos/GHDL%20Compile.png)
 
 ## Block Diagram
