@@ -17,7 +17,6 @@
 
 ## Inspiration for Project
 These Youtube videos from GreatScott! were the inspiration behind this project. The Automatic Volume Adjuster gave me the idea to make a device to allow the user to have a safe listening volume. The Garage Alarm System gave me the inspiration for the trigger component of the system. I also love his catchphase "Stay Creative, and I will see you next Time!"
-
 * [Movie Music has a LOUD PROBLEM! So I fixed that! (Automatic Volume Adjuster)](https://www.youtube.com/watch?v=j1V2I-otdzk&t=211s)
 * [Transmitting an Alarm Signal with LoRa (600m)! || Improving my Garage Alarm System](https://www.youtube.com/watch?v=ItZwa1AdrpU&t=151s)
 
