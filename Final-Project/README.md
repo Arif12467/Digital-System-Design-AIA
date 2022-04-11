@@ -13,3 +13,12 @@
 ## Required Hardware
 * Pmod I2S
 * Speaker with 3.5 mm connector
+* Nexys A7-100T
+
+## Block Diagram
+
+
+## Schematic in Vivado
+
+
+## Implementation in Vivado
