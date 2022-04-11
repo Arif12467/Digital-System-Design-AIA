@@ -34,4 +34,4 @@ The image below shows the implemented design of the circuit in Vivado.
 ![This is an image]()
 
 ## Demonstration [WIP]
-The video below shows the implemented system on the Nexys A7-100T
+The video below shows the implemented system on the Nexys A7-100T.
