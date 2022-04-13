@@ -5,9 +5,9 @@ ENTITY trigger IS
 	PORT ( 
 		clk_in_t : in STD_LOGIC;
 		-- microphone signals
-        micData_t : in STD_LOGIC;
-        micClk_t: out STD_LOGIC;  -- microphone clk
-        micLRSel_t: out STD_LOGIC;  -- microphone sel (0 for micClk rising edge)
+        	micData_t : in STD_LOGIC;
+        	micClk_t: out STD_LOGIC;  -- microphone clk
+        	micLRSel_t: out STD_LOGIC;  -- microphone sel (0 for micClk rising edge)
 		switch : OUT STD_LOGIC
 		);
 END trigger;
@@ -39,14 +39,14 @@ ARCHITECTURE Behavioral OF trigger IS
 	COMPONENT ClockPrescaler IS
 		port(
 		clock   : in STD_LOGIC; -- 50 Mhz
-        Led     : out STD_LOGIC
+        	Led     : out STD_LOGIC
 		);
 	END component;
 
 	signal en_des : std_logic := '1';
-    signal done_async_des : std_logic;
-    signal data_des : std_logic_vector(15 downto 0) := (others => '0');
-    signal pdm_clk_rising : std_logic;
+    	signal done_async_des : std_logic;
+    	signal data_des : std_logic_vector(15 downto 0) := (others => '0');
+    	signal pdm_clk_rising : std_logic;
 	signal Slowclkt: std_logic;
 
 
@@ -57,7 +57,7 @@ BEGIN
           C_NR_OF_BITS         => 16,
           C_SYS_CLK_FREQ_MHZ   => 100,
           C_PDM_FREQ_HZ        => 2000000)
-    port map(
+    	port map(
           clk_i                => clk_in_t,
           en_i                 => en_des,
           done_o               => done_async_des,
@@ -72,8 +72,8 @@ BEGIN
 	Slowclk: ClockPrescaler
 	port map(
 		clock  => clk_in_t,
-        Led    => Slowclkt
-    );
+        	Led    => Slowclkt
+   	);
 	
 
 	trg: PROCESS IS 
