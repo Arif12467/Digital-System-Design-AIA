@@ -1,15 +1,15 @@
 # Final Project: Noise Detector [WIP]
 ## VHDL Files
-* Clock Prescaler: [ClockPrescaler.vhd] (./Test-3/dac_if.vhd)
-* Digital to Analog Converter: [dac_if.vhd](./Test-3/dac_if.vhd)
-* PdmDes: [PdmDes.vhd](./Test-3/PdmDes.vhd)
-* Siren: [siren.vhd](./Test-3/siren.vhd)
-* Tone: [tone.vhd](./Test-3/tone.vhd)
-* Trigger: [trigger.vhd](./Test-3/trigger.vhd)
-* Wail: [wail.vhd](./Test-3/wail.vhd)
+* Clock Prescaler: [ClockPrescaler.vhd] (./Test-4/ClockPrescaler.vhd)
+* Digital to Analog Converter: [dac_if.vhd](./Test-4/dac_if.vhd)
+* PdmDes: [PdmDes.vhd](./Test-4/PdmDes.vhd)
+* Siren: [siren.vhd](./Test-4/siren.vhd)
+* Tone: [tone.vhd](./Test-4/tone.vhd)
+* Trigger: [trigger.vhd](./Test-4/trigger.vhd)
+* Wail: [wail.vhd](./Test-4/wail.vhd)
 
 ## Constraint Files
-* Siren: [siren.xdc](./Test-3/siren.xdc)
+* Siren: [siren.xdc](./Test-4/siren.xdc)
 
 ## Required Hardware
 * Pmod I2S
