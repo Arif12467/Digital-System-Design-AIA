@@ -68,12 +68,15 @@ The trigger threshold is suppose to turn on the siren when the data is above at 
 ## Schematic in Vivado
 The image below shows a circuit schematic for how this system.
 
-![This is an image]()
+### Simplified Schematic
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/174430468ad1596b580289d7d346c03d3343fd79/Final-Project/Photos/Schematic_Dsgn.png)
+### Full Schematic
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/174430468ad1596b580289d7d346c03d3343fd79/Final-Project/Photos/Schematic_Dsgn_Expanded.png)
 
 ## Implemented Design in Vivado
 The image below shows the implemented design of the circuit in Vivado.
 
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/174430468ad1596b580289d7d346c03d3343fd79/Final-Project/Photos/Implement_Dsgn.png)
 
 ## Demonstration [WIP]
 The video below shows the implemented system on the Nexys A7-100T.
