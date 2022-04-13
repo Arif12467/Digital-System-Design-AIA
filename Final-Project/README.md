@@ -1,6 +1,6 @@
 # Final Project: Noise Detector [WIP]
 ## VHDL Files
-* Clock Prescaler: [ClockPrescaler.vhd] (./Test-4/ClockPrescaler.vhd)
+* Clock Prescaler: [ClockPrescaler.vhd](./Test-4/ClockPrescaler.vhd)
 * Digital to Analog Converter: [dac_if.vhd](./Test-4/dac_if.vhd)
 * PdmDes: [PdmDes.vhd](./Test-4/PdmDes.vhd)
 * Siren: [siren.vhd](./Test-4/siren.vhd)
