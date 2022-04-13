@@ -37,6 +37,9 @@ The trigger threshold is suppose to turn on the siren when the data is above at 
 
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/68d25267e4d8a728e3968ed98a3a46b49a44b56b/Final-Project/Photos/R-2R%20Ladder%20DAC.png)
 
+## Addition of a Clock Prescaler
+Test 3 was a sucessful model when the threshold was set to 58,000. However, the clock on the trigger was operating at 100 MHz. This meant that the speaker output was visible and switching on and off by noise, but it was switching so fast, the speaker played a static like sound.
+
 ## Vivado Implementation Instructions
 
 ### 1. Create a new RTL project _siren_ in Vivado Quick Start
