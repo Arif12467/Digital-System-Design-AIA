@@ -25,14 +25,14 @@ The design started by envisioning how this Noise Detector would function. I deci
 
 ## Compling in GHDL
 To verify that my code worked and was implemented correctly, I used GHDL to analyze it. This is shown in the image below where the function ```ghdl -a [filename].vhd```  is used.
-![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/a30a2e69902b1ed7af9a2e2a8b13723bdba43b5f/Final-Project/Photos/GHDL%20Compile.png)
+![This is an image]()
 
 ## Block Diagram
 The image below shows a block diagram of how the components are interconnected in VHDL.
-![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/6f0d885db4483583b36218580d8c2fabab3ee80c/Final-Project/Photos/Block%20Diagram.png)
+![This is an image]()
 
 ## Setting the Trigger Threshold
-The trigger threshold is suppose to turn on the siren when the data is above at 16-bit number. For instance, Test 3 was set to 48,000, which corresponds to 1011101110000000. The 16-bit number is representative of voltage levels from Digital to Analog. This can be shown by this simple R-2R Ladder DAC, where higher order bits correspond to high voltages.
+The trigger threshold is suppose to turn on the siren when the data is above at 16-bit number. For instance, Test 4 was set to 58,000, which corresponds to 1110001010010000. The 16-bit number is representative of voltage levels from Digital to Analog. This can be shown by this simple R-2R Ladder DAC, where higher order bits correspond to high voltages.
 
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/68d25267e4d8a728e3968ed98a3a46b49a44b56b/Final-Project/Photos/R-2R%20Ladder%20DAC.png)
 
@@ -67,12 +67,12 @@ The trigger threshold is suppose to turn on the siren when the data is above at 
 ## Schematic in Vivado
 The image below shows a circuit schematic for how this system.
 
-![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/abdaafbfe7f5408dd4f0dc4b8e32f4b307f3e3b4/Final-Project/Photos/Schematic%20Design.png)
+![This is an image]()
 
 ## Implemented Design in Vivado
 The image below shows the implemented design of the circuit in Vivado.
 
-![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/ca126b7eedb8c3bcdece4b6b9d9f679dae896851/Final-Project/Photos/Implemented%20Design.png)
+![This is an image]()
 
 ## Demonstration [WIP]
 The video below shows the implemented system on the Nexys A7-100T.
