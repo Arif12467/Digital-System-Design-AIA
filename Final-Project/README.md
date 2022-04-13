@@ -30,7 +30,7 @@ To verify that my code worked and was implemented correctly, I used GHDL to anal
 
 ## Block Diagram
 The image below shows a block diagram of how the components are interconnected in VHDL.
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/a44baf73a26ff0c4343b454b6b6876ef8a4c46f0/Final-Project/Photos/Diagram_Block_1.png)
 
 ## Setting the Trigger Threshold
 The trigger threshold is suppose to turn on the siren when the data is above at 16-bit number. For instance, Test 4 was set to 58,000, which corresponds to 1110001010010000. The 16-bit number is representative of voltage levels from Digital to Analog. This can be shown by this simple R-2R Ladder DAC, where higher order bits correspond to high voltages.
