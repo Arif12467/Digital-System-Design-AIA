@@ -24,6 +24,8 @@ These Youtube videos from GreatScott! were the inspiration behind this project. 
 ## Design Process
 The design started by envisioning how this Noise Detector would function. I decided to use the DAC Siren lab as the alarm since the tone would be distiniguishable. Then, I realized I need a way to turn the siren off and on based on a 16-bit value. After learning that the bits from the digital microphone are not bundled in 16-bits, I learned I needed a PDM deserializer.
 
+Originally, this project was going to use a haptic engine to tell when the noise was too loud. However, a haptic engine was not available, so a speaker was chosen as a replacement.The beeps from the siren can be heard as short beeps. The reason for the short beeps was to prevent an infinite loop where the microphone is constantly hearing the output of the speaker. 
+
 ## Compling in GHDL
 To verify that my code worked and was implemented correctly, I used GHDL to analyze it. This is shown in the image below where the function ```ghdl -a [filename].vhd```  is used. 
 Note: GHDL does not recognize the unsigned library in the Clock Prescaler but the code does compile in Vivado.
@@ -83,4 +85,7 @@ The image below shows the implemented design of the circuit in Vivado.
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/174430468ad1596b580289d7d346c03d3343fd79/Final-Project/Photos/Implement_Dsgn.png)
 
 ## Demonstration [WIP]
-The video below shows the implemented system on the Nexys A7-100T.
+The video below shows the implemented system on the Nexys A7-100T. Due to the need of noise to activate the siren, two videos were combined.
+
+https://user-images.githubusercontent.com/78330724/163731023-f7c8cfb1-bf52-499d-85d6-ca14cd6d3fff.mp4
+
