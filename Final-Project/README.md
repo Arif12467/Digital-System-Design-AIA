@@ -1,4 +1,4 @@
-# Final Project: Noise Detector [WIP]
+# Final Project: Noise Detector
 ## VHDL Files
 * Clock Prescaler: [ClockPrescaler.vhd](./Test-4/ClockPrescaler.vhd)
 * Digital to Analog Converter: [dac_if.vhd](./Test-4/dac_if.vhd)
@@ -84,7 +84,7 @@ The image below shows the implemented design of the circuit in Vivado.
 
 ![This is an image](https://github.com/Arif12467/Digital-System-Design-AIA/blob/174430468ad1596b580289d7d346c03d3343fd79/Final-Project/Photos/Implement_Dsgn.png)
 
-## Demonstration [WIP]
+## Demonstration
 The video below shows the implemented system on the Nexys A7-100T. Due to the need of noise to activate the siren, two videos were combined.
 
 https://user-images.githubusercontent.com/78330724/163731023-f7c8cfb1-bf52-499d-85d6-ca14cd6d3fff.mp4
