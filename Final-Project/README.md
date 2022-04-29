@@ -8,6 +8,8 @@
 * Trigger: [trigger.vhd](./Test-4/trigger.vhd)
 * Wail: [wail.vhd](./Test-4/wail.vhd)
 
+Note: Files are from Test-4 as they are a stable build.
+
 ## Constraint Files
 * Siren: [siren.xdc](./Test-4/siren.xdc)
 
